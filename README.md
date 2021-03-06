@@ -53,6 +53,6 @@ No Activity tracked this Week
 
 #### Github Stats
 
-![Taha's github stats](https://github-readme-stats.vercel.app/api?username=tafakharany&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Taha's github stats](https://github-readme-stats.vercel.app/api?username=tafakharany&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
