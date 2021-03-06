@@ -44,7 +44,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-[![Taha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tafakharany)](https://github.com/tafakharany/github-readme-stats)
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafakharany&langs_count=16&layout=compact)](https://github.com/tafakharany/github-readme-stats)
