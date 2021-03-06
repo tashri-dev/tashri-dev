@@ -49,7 +49,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafakharany&langs_count=8)](https://github.com/tafakharany/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafakharany&langs_count=16&layout=compact)](https://github.com/tafakharany/github-readme-stats)
 
 #### Github Stats
 
