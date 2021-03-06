@@ -43,15 +43,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 #### Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-Markdown   1 hr 49 mins    ██████████████████████▓░░   90.03 % 
-YAML       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-SQL        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-CSS        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-<!--END_SECTION:waka-->
-
+[![Taha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tafakharany)](https://github.com/tafakharany/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafakharany&langs_count=16&layout=compact)](https://github.com/tafakharany/github-readme-stats)
 
 #### Github Stats
