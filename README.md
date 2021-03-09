@@ -36,7 +36,7 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 <details>
 <summary>
   <b>More stuff about me</b>
- <img align="left" alt="Taha's github readme stats" src ="https://github-readme-stats-two-olive.vercel.app/api?username=tafakharany&show_icons=true&hide_borders=true" />
+ 
 
 </summary>
 
@@ -59,6 +59,6 @@ SQL        2 mins          ░░░░░░░░░░░░░░░░░�
 
 #### Github Stats
 
-![Taha's github stats](https://github-readme-stats.vercel.app/api?username=tafakharany&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs,prs)
+![Taha's github stats](https://github-readme-stats-two-olive.vercel.app/api?username=tafakharany&show_icons=true&hide_borders=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
