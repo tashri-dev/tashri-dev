@@ -62,3 +62,9 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 ![Taha's github stats](https://github-readme-stats-two-olive.vercel.app/api?username=tafakharany&show_icons=true&hide_borders=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
+<a href="https://github.com/tafakharany/github-readme-stats">
+  <img align="center" src="github-readme-stats-two-olive.vercel.app/api/pin/?username=tafakharany&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/tafakharany/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafakharany&repo=convoychat" />
+</a>
