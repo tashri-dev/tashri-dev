@@ -66,10 +66,10 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
   <summary>
   See More
   </summary>
-<a href="https://github.com/tafakharany/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="github-readme-stats.vercel.app/api/pin/?username=tafakharany&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/tafakharany/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafakharany&repo=convoychat" />
 </a>
-<details>
+</details>
