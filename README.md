@@ -25,7 +25,7 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/tafakharany/Taha-Elfakharany/blob/master/Resume/Taha%20Elfakharany%20CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/tafakharany/tafakharany/blob/master/Resume/Taha%20Ashri%20Abdelhameed%20CV.pdf)
 - :email: taha.ashri96@outlook.com
 
 
