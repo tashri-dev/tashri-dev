@@ -48,11 +48,11 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.55 % 
-HTML         4 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   29.27 % 
-JSON         2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-SQL          1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-C#           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+TypeScript   3 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+HTML         3 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.88 % 
+C#           2 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+JSON         2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+SQL          1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 ```
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats-two-olive.vercel.app/api/top-langs/?username=tafakharany&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/tafakharany/github-readme-stats)
