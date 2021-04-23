@@ -48,11 +48,11 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-C#           20 hrs 40 mins  ███████████████████░░░░░░   76.59 % 
-Other        5 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-JSON         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+C#           14 hrs 31 mins  ██████████████████▓░░░░░░   75.02 % 
+Other        3 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats-two-olive.vercel.app/api/top-langs/?username=tafakharany&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/tafakharany/github-readme-stats)
