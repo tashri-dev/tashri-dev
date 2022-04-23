@@ -3,10 +3,6 @@
 ## Hi I'm Taha :wave: 
 I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding outstanding projects learning new Stuff.:computer:
 
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@tafakharany-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tafakharany)](https://twitter.com/tafakharany) [![Linkedin Badge](https://img.shields.io/badge/-tafakharany-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafakharany/) [![Mail Badge](https://img.shields.io/badge/-@tafakharany-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tafakharany) [![Mail Badge](https://img.shields.io/badge/-tafakharany-0078D4?style=flat&labelColor=0078D4&logo=microsoft-outlook&logoColor=white)](mailto:taha.ashri96@outlook.com) [![Mail Badge](https://img.shields.io/badge/-tafakharany-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:taha.ashri96@gmail.com) [![Mail Badge](https://img.shields.io/badge/tafakharany-FE7A16?style=flat&labelColor=FE7A16&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/5795064/tafakharany)
-
 <!-- TODO: Add last video link -->
 
 - 🔭 Software Engineer @ tribal.credit, always looking for new challenges.
@@ -24,6 +20,9 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 ![Quartz](https://img.shields.io/badge/quartz-Quartz-blue)
 
 <br />
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@tafakharany-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tafakharany)](https://twitter.com/tafakharany) [![Linkedin Badge](https://img.shields.io/badge/-tafakharany-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafakharany/) [![Mail Badge](https://img.shields.io/badge/-@tafakharany-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tafakharany) [![Mail Badge](https://img.shields.io/badge/-tafakharany-0078D4?style=flat&labelColor=0078D4&logo=microsoft-outlook&logoColor=white)](mailto:taha.ashri96@outlook.com) [![Mail Badge](https://img.shields.io/badge/-tafakharany-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:taha.ashri96@gmail.com) [![Mail Badge](https://img.shields.io/badge/tafakharany-FE7A16?style=flat&labelColor=FE7A16&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/5795064/tafakharany)
 
 #### Resume & Mail
 - :paperclip: [My Resume/CV](~/../Resume/Taha%20Abdeltwab-CV.pdf)
