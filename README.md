@@ -47,9 +47,12 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+C#    38 mins         ████████████████████████░   96.42 %
+XML   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
+
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats-two-olive.vercel.app/api/top-langs/?username=tafakharany&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/tafakharany/github-readme-stats)
 
