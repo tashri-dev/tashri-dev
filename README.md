@@ -33,7 +33,12 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tafakharany.tafakharany)
 
+<details>
+<summary>
+  <b>More stuff about me</b>
+ 
 
+</summary>
 
 <br >
 
@@ -53,8 +58,8 @@ XML   1 min           █░░░░░░░░░░░░░░░░░░�
 
 #### Github Stats
 
-![Taha's github stats](https://github-readme-stats-two-olive.vercel.app/api?username=tafakharany&show_icons=true&hide_borders=true&theme=tokyonight&hide=contribs,prs)
+![Taha's github stats](https://github-readme-stats.vercel.app/api?username=tafakharany&show_icons=true&theme=radical)
 
-  ####Github Streaks
+  #### Github Streaks
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tafakharany&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+</details>
