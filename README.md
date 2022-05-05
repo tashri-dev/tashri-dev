@@ -49,11 +49,11 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-HTML             1 hr 33 mins    ██████████████▒░░░░░░░░░░   56.73 %
-C#               53 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 %
-GitIgnore file   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+HTML             1 hr 33 mins    █████████████▓░░░░░░░░░░░   54.92 %
+C#               59 mins         ████████▓░░░░░░░░░░░░░░░░   34.89 %
+GitIgnore file   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
