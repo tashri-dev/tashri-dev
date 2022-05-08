@@ -33,7 +33,7 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tafakharany.tafakharany)
 
-![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3303?logoColor=white%26project=%26recentMS=0%26showProject=false)
+![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/3303?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 <details>
 <summary>
