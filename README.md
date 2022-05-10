@@ -51,9 +51,9 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 15 mins    ██████████▓░░░░░░░░░░░░░░   42.88 %
-JavaScript   59 mins         ████████▓░░░░░░░░░░░░░░░░   34.12 %
-C#           40 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+JavaScript   59 mins         █████████████▒░░░░░░░░░░░   53.30 %
+C#           40 mins         █████████░░░░░░░░░░░░░░░░   35.88 %
+HTML         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
 ```
 
 <!--END_SECTION:waka-->
