@@ -51,12 +51,11 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-C#                     2 hrs 52 mins   █████████████████▓░░░░░░░   70.45 %
-Go                     1 hr 11 mins    ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-MsBuild targets file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-XML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Csproj                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C#               2 hrs 32 mins   █████████████████░░░░░░░░   67.96 %
+Go               1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   31.84 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
