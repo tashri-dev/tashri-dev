@@ -51,7 +51,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
