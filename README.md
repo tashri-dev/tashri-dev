@@ -51,7 +51,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#   50 mins         ███████████████████████░░   92.15 %
+Go   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 ```
 
 <!--END_SECTION:waka-->
