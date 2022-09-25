@@ -51,7 +51,9 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+GitIgnore file   1 min           ████████████████████████▒   97.47 %
+Solution File    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+C#               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
