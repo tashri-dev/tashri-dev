@@ -51,9 +51,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   1 min           ████████████████████████▒   97.47 %
-Solution File    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-C#               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#               1 hr 29 mins    █████████████████████▓░░░   87.17 %
+Other            11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
 ```
 
 <!--END_SECTION:waka-->
