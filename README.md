@@ -51,7 +51,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
