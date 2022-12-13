@@ -51,8 +51,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-Go      14 mins         ██████████████████████▒░░   89.72 %
-Other   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Go      22 mins         ███████████████████████▒░   93.05 %
+Other   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
