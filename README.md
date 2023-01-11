@@ -51,9 +51,9 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-C#       3 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.35 %
-Go       1 hr 56 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
-Other    1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+C#      5 hrs 8 mins    █████████████▓░░░░░░░░░░░   55.00 %
+Go      1 hr 56 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+Other   1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
 ```
 
 <!--END_SECTION:waka-->
