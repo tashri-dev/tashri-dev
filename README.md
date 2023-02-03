@@ -51,9 +51,9 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-Go         2 hrs 11 mins   ██████████████████░░░░░░░   72.53 %
-XML        25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-Other      23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Go      1 hr 19 mins    ███████████████▒░░░░░░░░░   61.79 %
+XML     25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+Other   23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
 ```
 
 <!--END_SECTION:waka-->
