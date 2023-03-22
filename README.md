@@ -51,11 +51,12 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <!--START_SECTION:waka-->
 
 ```text
-CSHTML   1 hr 20 mins    █████████░░░░░░░░░░░░░░░░   36.35 %
-Binary   55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
-JSON     32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-C#       27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Java     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+Binary   1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.42 %
+C#       47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+CSHTML   36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+XML      28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+JSON     19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Java     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
 ```
 
 <!--END_SECTION:waka-->
