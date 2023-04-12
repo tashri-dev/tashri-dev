@@ -33,7 +33,7 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tafakharany.tafakharany)
 
-[![wakatime](https://wakatime.com/badge/user/03046bb3-87b4-48b5-8a4b-46a0c913b9ef.svg)](https://wakatime.com/@03046bb3-87b4-48b5-8a4b-46a0c913b9ef)
+[![Coding Time](https://wakatime.com/badge/user/03046bb3-87b4-48b5-8a4b-46a0c913b9ef.svg)](https://wakatime.com/@03046bb3-87b4-48b5-8a4b-46a0c913b9ef)
 <details>
 <summary>
   <b>More stuff about me</b>
