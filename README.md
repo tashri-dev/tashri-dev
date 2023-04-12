@@ -25,15 +25,13 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 [![Linkedin Badge](https://img.shields.io/badge/-tafakharany-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafakharany/) [![Mail Badge](https://img.shields.io/badge/-tafakharany-0078D4?style=flat&labelColor=0078D4&logo=microsoft-outlook&logoColor=white)](mailto:taha.ashri96@outlook.com) [![Mail Badge](https://img.shields.io/badge/-tafakharany-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:taha.ashri96@gmail.com) [![Mail Badge](https://img.shields.io/badge/tafakharany-FE7A16?style=flat&labelColor=FE7A16&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/5795064/tafakharany)
 
 #### Resume & Mail
-- :paperclip: [My Resume/CV](https://github.com/tafakharany/tafakharany/blob/5dc208687bbaabe27ba3cee0cfdc7d9498a6288b/Resume/taha_ashri_CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/tafakharany/tafakharany/blob/5dc208687bbaabe27ba3cee0cfdc7d9498a6288b/Resume/taha_ashri_resume.pdf)
 - :email: taha.ashri96@outlook.com
 
-
+[![wakatime](https://wakatime.com/badge/user/03046bb3-87b4-48b5-8a4b-46a0c913b9ef.svg)](https://wakatime.com/@03046bb3-87b4-48b5-8a4b-46a0c913b9ef)
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tafakharany.tafakharany)
-
-[![Coding Time](https://wakatime.com/badge/user/03046bb3-87b4-48b5-8a4b-46a0c913b9ef.svg)](https://wakatime.com/@03046bb3-87b4-48b5-8a4b-46a0c913b9ef)
 <details>
 <summary>
   <b>More stuff about me</b>
@@ -42,8 +40,6 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 </summary>
 
 <br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers.
 
 #### Coding Stats
 
