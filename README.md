@@ -55,7 +55,6 @@ Git Config       12 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats-two-olive.vercel.app/api/top-langs/?username=tafakharany&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/tafakharany/github-readme-stats)
-<figure><embed src="https://wakatime.com/share/@tafakharany/b3c8d0aa-f841-434d-b01f-31087b6ee145.svg"></embed></figure>
 #### Github Stats
 
 ![Taha's github stats](https://github-readme-stats.vercel.app/api?username=tafakharany&show_icons=true&theme=radical)
