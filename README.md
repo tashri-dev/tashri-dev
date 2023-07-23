@@ -46,11 +46,11 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 <!--START_SECTION:waka-->
 
 ```txt
-C#               4 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.48 %
-Binary           3 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-CSHTML           2 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
-JSON             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Git Config       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+C#               2 hrs 53 mins   ███████████████░░░░░░░░░░   59.92 %
+CSHTML           40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Git Config       29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Binary           22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JSON             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
