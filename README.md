@@ -46,11 +46,11 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 <!--START_SECTION:waka-->
 
 ```txt
-SQL                 5 mins          ██████████████▓░░░░░░░░░░   58.06 %
-C#                  2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-YAML                0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Binary              0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Docker              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+SQL                 5 mins          █████████████████▒░░░░░░░   69.76 %
+C#                  1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+YAML                0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Docker              0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+DockerIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
