@@ -5,8 +5,7 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Software Engineer @ tribal.credit, always looking for new challenges.
-- 🔭 graduated Intern @ITI .net Full Stack Program
+- 🔭 Software Engineer, always looking for new challenges.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: taha.ashri96@outlook.com.
