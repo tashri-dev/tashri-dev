@@ -45,10 +45,9 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   33 mins         █████████████████████░░░░   83.84 %
-Bash         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-INI          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+PowerShell   4 mins          ███████████▓░░░░░░░░░░░░░   47.01 %
+Bash         2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+INI          2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
 ```
 
 <!--END_SECTION:waka-->
