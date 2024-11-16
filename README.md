@@ -87,6 +87,7 @@ I'm a passionate backend software engineer focusing on building robust and scala
 Java   1 hr 52 mins    ███████████████████████▒░   93.55 %
 XML    7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
 ```
+
 <!--END_SECTION:waka-->
 </p>
 📈 Activity Metrics
