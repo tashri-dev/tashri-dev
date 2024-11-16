@@ -84,8 +84,8 @@ I'm a passionate backend software engineer focusing on building robust and scala
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 52 mins    ███████████████████████▒░   93.55 %
-XML    7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Java   25 mins         ███████████████████▒░░░░░   76.88 %
+XML    7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
 ```
 
 <!--END_SECTION:waka-->
