@@ -7,9 +7,7 @@ I'm Taha Elfakharany a  Full Stack Web Developer. I Spend most of time coding ou
 
 - 🔭 Software Engineer, always looking for new challenges.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: taha.ashri96@outlook.com.
-- ⚡ Fun fact: I play code 😂.
+- 📫 How to reach me: taha.ashri.dv@gmail.com.
 
 #### Top Technologies & Tools
 
