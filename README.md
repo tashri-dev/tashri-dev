@@ -84,11 +84,11 @@ I'm a passionate backend software engineer focusing on building robust and scala
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
-YAML              2 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
-TypeScript        2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Image (svg)       45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-HTML              43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+TypeScript        2 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+YAML              2 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Java              1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+Image (svg)       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+HTML              43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
