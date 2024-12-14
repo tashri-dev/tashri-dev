@@ -84,11 +84,11 @@ I'm a passionate backend software engineer focusing on building robust and scala
 <!--START_SECTION:waka-->
 
 ```txt
-C#       12 hrs 27 mins  ████████████████▓░░░░░░░░   66.11 %
-Binary   1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-YAML     1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Other    57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-JSON     53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+C#       9 hrs 51 mins   █████████████████░░░░░░░░   67.91 %
+YAML     1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Binary   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Docker   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Other    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
