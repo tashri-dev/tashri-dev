@@ -68,14 +68,8 @@ I'm a passionate backend software engineer focusing on building robust and scala
 
 <div align="center">
 
-#### 💻 Coding Activity
-<p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img width="400" src="https://github-readme-stats-two-olive.vercel.app/api/top-langs/?username=tashri-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
 #### 🌟 GitHub Performance
 <p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tashri-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=tashri-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -98,4 +92,5 @@ No activity tracked
     <img src="https://api.visitorbadge.io/api/combined?path=tashri-dev&labelColor=%23d9e3f0&countColor=%23697689&style=plastic" alt="Profile Visits" />
   </a>
 </p>
+
 </div>
