@@ -70,7 +70,7 @@ I'm a passionate backend software engineer focusing on building robust and scala
 
 #### 🌟 GitHub Performance
 <p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tashri-dev&theme=dracula&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tashri-dev&theme=dracula&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j" alt= "https://git.io/streak-stats"/>
 </p>
 
 #### ⏱️ Weekly Coding Breakdown
@@ -94,4 +94,5 @@ No activity tracked
 </p>
 
 </div>
+
 
