@@ -1,80 +1,130 @@
-﻿
+
 <div align="center">
-  <img src="./header.gif" alt="hi" width="100%">
-  
-  # Hi there, I'm Taha 👋 
-  ### Senior Backend Software Engineer | FinTech Enthusiast
+  <img src="./header.gif" alt="Taha Ashri" width="100%">
+
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=720&lines=Senior+Backend+Software+Engineer;FinTech+%7C+Payment+Systems+Specialist;Distributed+Systems+%26+Architecture+Expert;5%2B+Years+%7C+5+Companies+%7C+10+Central+Banks)](https://git.io/typing-svg)
+
+  <br/>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-portofolio.t--ashri.dev-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portofolio.t-ashri.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-tafakharany-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafakharany/)
+  [![Email](https://img.shields.io/badge/Email-taha.ashri.dv%40gmail.com-CC2927?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.ashri.dv@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-tashri--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tashri-dev)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-tafakharany-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5795064/tafakharany)
+
+  <br/>
+
+  <a href="https://visitorbadge.io/status?path=tashri-dev">
+    <img src="https://api.visitorbadge.io/api/combined?path=tashri-dev&labelColor=%230d1117&countColor=%2300e676&style=flat-square" alt="Profile Visits" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/@03046bb3-87b4-48b5-8a4b-46a0c913b9ef">
+    <img src="https://wakatime.com/badge/user/03046bb3-87b4-48b5-8a4b-46a0c913b9ef.svg" alt="Wakatime" />
+  </a>
+
 </div>
 
-### 👨‍💻 About Me
-I'm a passionate backend software engineer focusing on building robust and scalable systems. I spend most of my time crafting outstanding projects and exploring new technologies.
+<br/>
 
-- 🎯 Software Engineer with strong focus on backend development
-- 💡 Always seeking new challenges and opportunities to grow
-- 🚀 Result-oriented professional
-- 💼 Working in FinTech domain
-- ⚡ Building scalable distributed systems
+---
 
-### 🛠️ Tech Stack & Tools
+## `$ whoami`
 
-#### Backend & Framework
-[![.NET Badge](https://img.shields.io/badge/Dotnet%20Core-512BD4?style=flat&labelColor=512BD4&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/en-us/download) 
-[![CSharp Badge](https://img.shields.io/badge/C%20Sharp-239120?style=flat&labelColor=239120&logo=C%20Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=black) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+```txt
+> Senior Software Engineer | FinTech Specialist | Backend Architecture Expert
+```
 
-#### Architecture & Patterns
-![DDD](https://img.shields.io/badge/DDD-FF4785?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQgNGgxNnYxNkg0eiIvPjxwYXRoIGZpbGw9IiNGRjQ3ODUiIGQ9Ik02IDZoMTJ2MTJINnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNOCA4aDh2OEg4eiIvPjwvc3ZnPg==)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQgOGg0djRINHpNMTYgOGg0djRoLTR6TTEwIDhoNHY0aC00ek00IDE2aDR2NGgtNHpNMTYgMTZoNHY0aC00ek0xMCAxNmg0djRoLTR6Ii8+PC9zdmc+)
-![FinTech](https://img.shields.io/badge/FinTech-2C5BB4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQgNGgxNnY0SDR6TTkgMTBoNnY0SDl6TTQgMTZoMTZ2NEg0eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmYiIGQ0PSJNOCA4aDJ2OEg4ek0xNCA4aDJ2OGgtMnoiPjwvcGF0aD48L3N2Zz4=)
+- 🏦 **5+ years** building high-performance payment systems and fintech infrastructure
+- 🌍 Served **10+ Central Banks** across Africa and the Middle East  
+- ⚙️ Specialized in **distributed systems**, **payment orchestration**, and **fraud detection**
+- 🎓 Pursuing **Master's in Data Science** @ Arab Academy for Science & Technology
+- 📍 Based in **Muscat, Oman** · Open to **remote senior roles worldwide**
 
-#### Database & ORM
-[![EF Badge](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
-[![Microsoft SQL Server Badge](https://img.shields.io/badge/MSSQL-CC2927?style=flat&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%230377CC?style=flat&labelColor=230377CC&logo=elasticsearch&logoColor=white)
+---
 
-#### Message Brokers & Job Scheduling
-![RabbitMq](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&labelColor=FF6600&logo=rabbitmq&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-0377CC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMNCAyMGw4LTYgOCA2eiIvPjwvc3ZnPg==)
-![Quartz](https://img.shields.io/badge/Quartz-76B900?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwem0wIDE4YTggOCAwIDEgMSAwLTE2IDggOCAwIDAgMSAwIDE2eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMiA2djZsNC40IDQuNCAyLjgtMi44TDEyIDZ6Ii8+PC9zdmc+)
+## 🛠️ Tech Stack
 
-#### Frontend
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=black)](https://www.javascript.com/) 
-[![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTMl Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=1572B6&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-[![bootstrap badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&labelColor=7952B3&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+### ⚙️ Backend & Frameworks
 
-#### IDE & Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FC801D?style=flat&logo=intellij-idea&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-DD1265?style=flat&logo=rider&logoColor=white)
-[![VS Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&labelColor=5C2D91&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![VSCode Badge](https://img.shields.io/badge/VS_Code-007ACC?style=flat&labelColor=007ACC&logo=Visual%20Studio%20Code&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET_8%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-#### DevOps & Version Control
-[![git Badge](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=F05032&logo=git&logoColor=white)](https://git-scm.com/)
-[![github Badge](https://img.shields.io/badge/GitHub-181717?style=flat&labelColor=181717&logo=GitHub&logoColor=white)](#)
-[![AzureDevOps Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&labelColor=0078D7&logo=Azure%20DevOps&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
+### 🏗️ Architecture & Patterns
 
-### 📄 Resume 
-:paperclip: [My Resume/CV](https://github.com/tashri-dev/tashri-dev/blob/master/Resume/taha_ashri_resume.pdf)
+[![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)](https://microservices.io/)
+[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00E676?style=for-the-badge&logoColor=black)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+[![DDD](https://img.shields.io/badge/Domain_Driven_Design-FF4785?style=for-the-badge)](https://martinfowler.com/bliki/DomainDrivenDesign.html)
+[![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-00BCD4?style=for-the-badge)](https://www.milanjovanovic.tech/blog/what-is-a-modular-monolith)
+[![SOLID](https://img.shields.io/badge/SOLID-9C27B0?style=for-the-badge)](https://en.wikipedia.org/wiki/SOLID)
+[![FinTech](https://img.shields.io/badge/FinTech-2C5BB4?style=for-the-badge)](https://en.wikipedia.org/wiki/Fintech)
 
-### 📫 Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-tafakharany-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafakharany/)
-[![Mail Badge](https://img.shields.io/badge/-tashri.dev-CC2927?style=flat&labelColor=CC2927&logo=gmail&logoColor=white)](mailto:taha.ashri.dv@gmail.com)
-[![Stack Overflow Badge](https://img.shields.io/badge/-tafakharany-FE7A16?style=flat&labelColor=FE7A16&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/5795064/tafakharany)
+### 🗄️ Data & Messaging
 
-### 📊 Stats
+[![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
+[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Hangfire](https://img.shields.io/badge/Hangfire-0377CC?style=for-the-badge)](https://www.hangfire.io/)
+[![Quartz.NET](https://img.shields.io/badge/Quartz.NET-76B900?style=for-the-badge)](https://www.quartz-scheduler.net/)
+
+### 🎨 Frontend
+
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+### 🛠 IDE & Developer Tools
+
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FC801D?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Rider](https://img.shields.io/badge/Rider-DD1265?style=for-the-badge&logo=rider&logoColor=white)](https://www.jetbrains.com/rider/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+### 🚀 DevOps & Version Control
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
+[![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)](https://subversion.apache.org/)
+
+---
+
+## 🏆 Key Projects
+
+| Project | Company | Stack | Impact |
+| --- | --- | --- | --- |
+| **Amwal SRM** — Sanction & Risk Management | Amwal Pay | .NET 10 · PostgreSQL · Redis · MongoDB · Angular | Real-time fraud detection in payment gateway |
+| **GIM-UEMOA Orchestrator** | PaySky Financial Solutions | .NET 8 · SQL Server · Elasticsearch · DDD | Payment orchestration for **8 West African Central Banks** |
+| **UPG — Unified Payment Gateway** | PaySky Financial Solutions | .NET 8 · SQL Server · Clean Architecture | Unified gateway for **Central Bank of Egypt** |
+| **E-Invoice System** | eFinance Investment Group | .NET · MSSQL · IBM | National e-invoicing for **Egyptian Tax Authority** |
+| **IRobo** | SmartTechSys | C# · WPF · .NET 4.6 | RPA desktop automation platform |
+| **EV E-Commerce Platform** | Electrified EV | .NET Core · Angular · DDD | Full e-commerce backend with real-time inventory |
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
-#### 🌟 GitHub Performance
-<p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tashri-dev&theme=dracula&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j" alt= "https://git.io/streak-stats"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tashri-dev&theme=dark&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-#### ⏱️ Weekly Coding Breakdown
-<p align="center">
+### ⏱️ Weekly Coding Activity
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -82,17 +132,17 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-</p>
-📈 Activity Metrics
-<p style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <a href="https://wakatime.com/@03046bb3-87b4-48b5-8a4b-46a0c913b9ef">
-    <img src="https://wakatime.com/badge/user/03046bb3-87b4-48b5-8a4b-46a0c913b9ef.svg" alt="Wakatime" />
-  </a>
-  <a href="https://visitorbadge.io/status?path=tashri-dev">
-    <img src="https://api.visitorbadge.io/api/combined?path=tashri-dev&labelColor=%23d9e3f0&countColor=%23697689&style=plastic" alt="Profile Visits" />
-  </a>
-</p>
 
 </div>
 
+---
 
+## 📄 Resume
+
+📎 [Download My Resume/CV](https://github.com/tashri-dev/tashri-dev/blob/master/Resume/taha_ashri_resume.pdf)
+
+---
+
+<div align="center">
+  <sub>© 2026 Taha Ashri · Senior Software Engineer · FinTech Specialist · Muscat, Oman</sub>
+</div>
