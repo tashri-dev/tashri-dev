@@ -8,7 +8,7 @@
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-portofolio.t--ashri.dev-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portofolio.t-ashri.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-portofolio.t--ashri.dev-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portfolio.t-ashri.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-tafakharany-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafakharany/)
   [![Email](https://img.shields.io/badge/Email-taha.ashri.dv%40gmail.com-CC2927?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.ashri.dv@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-tashri--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tashri-dev)
