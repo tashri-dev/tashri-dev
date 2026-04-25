@@ -40,10 +40,7 @@
 - 🌍 Served **10+ Central Banks** across Africa and the Middle East  
 - ⚙️ Specialized in **distributed systems**, **payment orchestration**, and **fraud detection**
 - 🎓 Pursuing **Master's in Data Science** @ Arab Academy for Science & Technology
-- 📍 Based in **Muscat, Oman** · Open to **remote senior roles worldwide**
-
----
-
+- 📍 Based in **Muscat, Oman** ·
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend & Frameworks
