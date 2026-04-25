@@ -33,7 +33,7 @@
 ## `$ whoami`
 
 ```txt
-> Senior Software Engineer | FinTech Specialist | Backend Architecture Expert
+> Senior Software Engineer | FinTech Specialist | Backend
 ```
 
 - 🏦 **5+ years** building high-performance payment systems and fintech infrastructure
