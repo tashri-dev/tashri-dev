@@ -1,11 +1,7 @@
 
 <div align="center">
   <img src="./header.gif" alt="Taha Ashri" width="100%">
-
-  <br/>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=720&lines=Senior+Backend+Software+Engineer;FinTech+%7C+Payment+Systems+Specialist;Distributed+Systems+%26+Architecture+Expert;5%2B+Years+%7C+5+Companies+%7C+10+Central+Banks)](https://git.io/typing-svg)
-
+  
   <br/>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.t--ashri.dev-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portfolio.t-ashri.dev)
